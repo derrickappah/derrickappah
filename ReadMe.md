@@ -1,5 +1,4 @@
-# 💫 About Me:
-I’m someone who enjoys learning, building, and trying out new ideas. <br>I like working on projects that challenge me and help me grow, especially in tech.<br>When I’m not coding, I’m usually thinking about the next thing to build.
+
 
 
 # 💻 Tech Stack:
